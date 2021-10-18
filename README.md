@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zainudinjeje
 - 👀 I’m interested in anything about Information Technology
-- 🌱 I’m currently learning Infrastructure as Code - Terragrunt
+- 🌱 I’m currently learning Infrastructure as Code - Terraform
 - 📫 reach me out in my linkedin https://www.linkedin.com/in/zainudin-05658210b/
 
 <!---
